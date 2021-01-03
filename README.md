@@ -1,9 +1,8 @@
 # AutomaticTicketAssignment - Group 4
 ### By:- <br>1) Sunaal Dua<br>2) Manoj Mariappan<br>3) Gourab Goswami
-<br>
 
-### Greetings! Please read the following to understand the directory structure:<br>
-The root directory contains all the jupyter notebooks. We have 6 parts for the project. All the noteooks are well documented. Lets get started:<br><br>
+### Greetings! Please read the following to understand the directory structure:
+The root directory contains all the jupyter notebooks. We have 6 parts for the project. All the noteooks are well documented and easy to follow. We recommend you to start the project in the order mentioned below. Lets get started:<br><br>
 <b>1) M1(part1) - Preprocessing and Visualization.ipynb</b><br>
 Start with this notebook. This is milestone-1 part-1. It contains all the Visualisations, Data Pre-processing and Exploration.<br><br>
 
@@ -21,3 +20,10 @@ This is milestone-2 part-2. After deciding upon the apt architecture in previous
 
 <b>6) M2(part3) - Model Tuning.ipynb</b><br>
 This is milestone-2 part-3. Shortcomings from previous part are attended in this notebook. We closed the project with 92% accuracy and 93% macro fi-score on the test set.
+
+<br>
+Coming to other folders in the root directory, we have made certain custom modules for making the code more readable and for the ease of programming. These modules contains the .py files that are used in our codel. We have explained each and every module in the notebook. This is just a pre-cap of what folder contains what:<br>
+1) <b>DataFiles:</b> Contains all the csv files for the project.<br>
+2) <b>DataTransformation:</b> Module that contains functions for transforming dataset to Tf-Idf and BOW matrices<br>
+3) <b>Model:</b> Contains functions for model tuning and evaluation for both traditional machine learning as well as deep learning approaches. It also contains the model checkpoints andtraining history<br>
+4) <b>ProjectModules:</b> This model contains functions related to text processing, cleaning, lemmatization etc. It also contains language detection function as well as general functions for plotting various plots that are used in a number of places in the project
