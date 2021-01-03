@@ -21,9 +21,13 @@ This is milestone-2 part-2. After deciding upon the apt architecture in previous
 <b>6) M2(part3) - Model Tuning.ipynb</b><br>
 This is milestone-2 part-3. Shortcomings from previous part are attended in this notebook. We closed the project with 92% accuracy and 93% macro fi-score on the test set.
 
-<br>
-Coming to other folders in the root directory, we have made certain custom modules for making the code more readable and for the ease of programming. These modules contains the .py files that are used in our codel. We have explained each and every module in the notebook. This is just a pre-cap of what folder contains what:<br>
+<hr>
+
+Coming to other folders in the root directory, we have made certain custom modules for making the code more readable and for the ease of programming. These modules contain the .py files that are used in our code. We have explained each and every module in the notebook. This is just a pre-cap of what folder contains what:<br><br>
 1) <b>DataFiles:</b> Contains all the csv files for the project.<br>
 2) <b>DataTransformation:</b> Module that contains functions for transforming dataset to Tf-Idf and BOW matrices<br>
 3) <b>Model:</b> Contains functions for model tuning and evaluation for both traditional machine learning as well as deep learning approaches. It also contains the model checkpoints andtraining history<br>
 4) <b>ProjectModules:</b> This model contains functions related to text processing, cleaning, lemmatization etc. It also contains language detection function as well as general functions for plotting various plots that are used in a number of places in the project
+<hr>
+#### Thanks
+#### Regards Team group-4
