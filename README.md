@@ -1,8 +1,8 @@
 # AutomaticTicketAssignment - Group 4
 ### By:- <br>1) Sunaal Dua<br>2) Manoj Mariappan<br>3) Gourab Goswami
 <br>
-#### Greetings! Please read the following to understand the directory structure:<br>
-The root directory contains all the jupyter notebooks. We have 6 parts for the project. Al the noteooks are well documented. Lets get started:<br><br>
+### Greetings! Please read the following to understand the directory structure:<br>
+The root directory contains all the jupyter notebooks. We have 6 parts for the project. All the noteooks are well documented. Lets get started:<br><br>
 <b>1) M1(part1) - Preprocessing and Visualization.ipynb</b><br>
 Start with this notebook. This is milestone-1 part-1. It contains all the Visualisations, Data Pre-processing and Exploration.<br><br>
 
