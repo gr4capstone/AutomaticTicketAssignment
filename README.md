@@ -29,5 +29,6 @@ Coming to other folders in the root directory, we have made certain custom modul
 3) <b>Model:</b> Contains functions for model tuning and evaluation for both traditional machine learning as well as deep learning approaches. It also contains the model checkpoints andtraining history<br>
 4) <b>ProjectModules:</b> This model contains functions related to text processing, cleaning, lemmatization etc. It also contains language detection function as well as general functions for plotting various plots that are used in a number of places in the project
 <hr>
-#### Thanks
-#### Regards Team group-4
+
+#### Thanks and regards
+#### Team group-4
