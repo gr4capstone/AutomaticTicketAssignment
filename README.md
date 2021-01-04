@@ -30,4 +30,4 @@ Coming to other folders in the root directory, we have made certain custom modul
 4) <b>ProjectModules:</b> This model contains functions related to text processing, cleaning, lemmatization etc. It also contains language detection function as well as general functions for plotting various plots that are used in a number of places in the project
 <hr>
 
-### Thanks and regards,<br>Team group-4
+### Thanks and regards,<br>Group 4
