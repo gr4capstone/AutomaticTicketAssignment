@@ -1,4 +1,4 @@
-# AutomaticTicketAssignment - Group 4
+# AutomaticTicketAssignment - Group 4<br><a target="_blank" href="https://github.com/gr4capstone/AutomaticTicketAssignment/blob/main/final%20report%20group4.pdf">(Link to project report)</a>
 ### By:- <br>1) Sunaal Dua<br>2) Manoj Mariappan<br>3) Gourab Goswami
 
 ### Greetings! Please read the following to understand the directory structure:
